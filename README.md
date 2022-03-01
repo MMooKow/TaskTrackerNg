@@ -1,2 +1,2 @@
 # TaskTrackerNg
-Task Tracker in Angular
+Task Tracker refresh project in Angular. Some of the tools from this refreshed will be use in GamerMedia side project
